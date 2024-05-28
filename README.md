@@ -1,6 +1,9 @@
 # Projeto de Sistema Web para Análise de Números
 Este projeto consiste em uma aplicação web que recebe uma lista de números inseridos pelo usuário e realiza algumas operações básicas de análise, como contar a quantidade de números inseridos, identificar o maior e o menor valor entre eles, e calcular a média dos números fornecidos.
 
+# Projeto
+#### https://igornunes-dev.github.io/analisadorDeNumeros/
+
 # Funcionalidades
 #### Contagem de números inseridos.
 #### Identificação do maior e do menor valor entre os números inseridos.
